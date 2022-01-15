@@ -8,6 +8,9 @@ Since that time, I've been fascinated by technology, developing software since a
 
 <img src="images/amazonwebservices-original.svg" width="20"> <img src="images/kotlin-original.svg" width="20"> <img src="images/scala-original.svg" width="20"> <img src="images/react-original.svg" width="20"> <img src="images/android-original.svg" width="20">  <img src="images/typescript-original.svg" width="20">  <img src="images/java-original.svg" width="20">
 
-### Social media
+<br/>
 
-None. 
+```
+“We live not for ourselves, but for others. What we make of ourselves we make not for ourselves, but for others…”
+― Hans Fallada, Alone in Berlin 
+```
