@@ -4,6 +4,8 @@ I'm a fullstack software engineer based in Munich/Germany, starting my professio
 
 Since that time, I've been fascinated by technology, developing software since around 2000 and working with a lot of different languages, platforms and technologies, including modern web development, Android apps and backend services.
 
+![](https://komarev.com/ghpvc/?username=richterrene)
+
 ### Favorite languages and frameworks
 
 <img src="images/amazonwebservices-original.svg" width="20"> <img src="images/kotlin-original.svg" width="20"> <img src="images/scala-original.svg" width="20"> <img src="images/react-original.svg" width="20"> <img src="images/android-original.svg" width="20">  <img src="images/typescript-original.svg" width="20">  <img src="images/java-original.svg" width="20">
