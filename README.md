@@ -12,7 +12,7 @@ Since that time, I've been fascinated by technology, developing software since a
 
 ### Top languages used
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richterrene)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richterrene&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
